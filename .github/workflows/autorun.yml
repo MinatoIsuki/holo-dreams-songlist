@@ -1,0 +1,35 @@
+name: Run script and commit output
+
+on:
+  schedule:
+    # Runs every 12 hours (at minute 0 of every 12th hour UTC)
+    - cron: "0 */12 * * *"
+  # Allows manual trigger from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Needed to push changes back to the repository
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so we can commit properly (optional but recommended)
+          fetch-depth: 0
+
+      - name: Make script executable
+        run: chmod +x script.sh
+
+      - name: Run script
+        run: ./script.sh
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update generated file"
+          # Adjust the file pattern if your script generates more than one file
+          file_pattern: "generated-file.txt"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
