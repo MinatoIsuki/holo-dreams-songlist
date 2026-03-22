@@ -18,12 +18,13 @@ jobs:
         with:
           # Fetch full history so we can commit properly (optional but recommended)
           fetch-depth: 0
-
-      - name: Make script executable
-        run: chmod +x script.sh
+      - name: Install Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: 3.12
 
       - name: Run script
-        run: ./script.sh
+        run: python3 script.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
