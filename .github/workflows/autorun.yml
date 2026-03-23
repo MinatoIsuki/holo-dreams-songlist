@@ -27,11 +27,44 @@ jobs:
       - name: Run script
         run: python3 script.py
 
+      - name: Extract number of songs from output.json
+        id: get_total
+        run: |
+          total=$(jq '.total' output.json)
+          echo "total=$total" >> $GITHUB_OUTPUT
+          echo "Number of songs: $total"
+
+      - name: Get current UTC date and time
+        id: get_date
+        run: |
+          datetime=$(date -u +"%d-%m-%Y %H:%M:%S UTC")
+          echo "datetime=$datetime" >> $GITHUB_OUTPUT
+          echo "Last updated: $datetime"
+
+      - name: Update README.md with songs count and timestamp
+        run: |
+          total=${{ steps.get_total.outputs.total }}
+          datetime="${{ steps.get_date.outputs.datetime }}"
+
+          # Update or add the "Number of songs:" line
+          if grep -q "^Number of songs:" README.md; then
+            sed -i "s/^Number of songs: [0-9]*/Number of songs: $total/" README.md
+          else
+            echo "Number of songs: $total" >> README.md
+          fi
+
+          # Update or add the "Last updated:" line
+          if grep -q "^Last updated:" README.md; then
+            sed -i "s/^Last updated: .*/Last updated: $datetime/" README.md
+          else
+            echo "Last updated: $datetime" >> README.md
+          fi
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Upload database"
+          commit_message: "Update everything"
           # Adjust the file pattern if your script generates more than one file
-          file_pattern: "output.json"
+          file_pattern: "output.json README.md"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
