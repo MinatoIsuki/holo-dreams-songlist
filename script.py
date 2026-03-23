@@ -1,7 +1,7 @@
 import json
 import sys
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
 
 def clean_src(url):
     """Remove query parameters from image URL."""
@@ -13,7 +13,7 @@ def extract_song_info(item):
     """Extract song data from a <section class="Music__item"> element."""
     # Jacket image
     img = item.find('img', class_='Music__item__thumb')
-    jacket = img['src'] if img else ''
+    jacket = clean_src(img['src']) if img else ''
 
     # Song name
     name_tag = item.find('h3', class_='Music__item__title')
@@ -56,10 +56,8 @@ def parse_html(html_content):
     songs = []
 
     for cat in categories:
-        # Determine category type (original / cover)
         title_tag = cat.find('h3', class_='Music__category__title')
         cat_name = title_tag.text.strip() if title_tag else ''
-        # Assume "Original Songs" or "Cover Songs" – use as is for output
         cat_type = 'original' if 'Original' in cat_name else 'cover' if 'Cover' in cat_name else cat_name
 
         items = cat.find_all('section', class_='Music__item')
@@ -71,16 +69,24 @@ def parse_html(html_content):
     return songs
 
 def main():
-    x = requests.get('https://www.hololive-dreams.com/en/music')
-    x = x.content
-    songs = parse_html(x)
+    try:
+        response = requests.get('https://www.hololive-dreams.com/en/music')
+        response.raise_for_status()
+        html = response.text
+    except Exception as e:
+        print(f"Error fetching page: {e}", file=sys.stderr)
+        sys.exit(1)
+
+    songs = parse_html(html)
     output = {
         'total': len(songs),
         'songs': songs
     }
-    outputdtb = json.dumps(output, indent=2, ensure_ascii=False)
-    with open("output.json", "a") as f:
-      f.write(outputdtb)
+    output_json = json.dumps(output, indent=2, ensure_ascii=False)
+
+    # Write once, overwrite the file
+    with open("output.json", "w", encoding='utf-8') as f:
+        f.write(output_json)
 
 if __name__ == '__main__':
     main()
