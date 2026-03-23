@@ -13,7 +13,7 @@ def extract_song_info(item):
     """Extract song data from a <section class="Music__item"> element."""
     # Jacket image
     img = item.find('img', class_='Music__item__thumb')
-    jacket = clean_src(img['src']) if img else ''
+    jacket = img['src'] if img else ''
 
     # Song name
     name_tag = item.find('h3', class_='Music__item__title')
