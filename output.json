@@ -740,4 +740,746 @@
       "type": "cover"
     }
   ]
+}{
+  "total": 82,
+  "songs": [
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f05ab96b725041aeb6c2317a6268fa5c/%E9%9D%92%E6%98%A5%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%95%E3%82%99.png",
+      "name": "Seishun Archive",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "HoneyWorks",
+      "music": "HoneyWorks",
+      "arrangement": "HoneyWorks",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c9e41e8e8c4941d29549c9c4e206310d/%E5%A4%A2%E8%A6%8B%E3%82%8B%E7%A9%BA%E3%81%B8.png",
+      "name": "Yumemiru Sora He",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "Kento Nagatsuka",
+      "music": "Kento Nagatsuka",
+      "arrangement": "Kento Nagatsuka",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/21f56b5f6a8d49c7a3ec39677ed28f13/%E3%82%AD%E3%83%A9%E3%83%A1%E3%82%AD%E3%83%A9%E3%82%A4%E3%82%BF%E3%82%99%E3%83%BC%E2%98%86.png",
+      "name": "Kirameki Rider",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "Junko Tsuji",
+      "music": "Kakeru Ishihama",
+      "arrangement": "Kakeru Ishihama",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f0e517825d78405b857805cd8bab13ab/Dreaming%20Days.png",
+      "name": "Dreaming Days",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "Yuki Honda（Arte Refact）",
+      "music": "Yuki Honda（Arte Refact）,Takuya Sakai（Arte Refact）",
+      "arrangement": "Yuki Honda（Arte Refact）,Takuya Sakai（Arte Refact）",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/8be6a790d598460f9d9b3e5777baae3f/%E3%81%82%E3%81%99%E3%81%84%E3%82%8DClearSky.png",
+      "name": "AsuiroClearSky",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "Ren Morimoto",
+      "music": "Ren Morimoto",
+      "arrangement": "Masatomi Waki（Arte Refact）",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/91627563df014e9b95a515dbdae4370b/Shiny%20Smily%20Story%20(2022%20ver.).png",
+      "name": "Shiny Smily Story (2022 ver.)",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "Yoshifumi Kanamaru",
+      "music": "Ryota Nakano",
+      "arrangement": "Tomohiro Akiura",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2eec6571798f4280b38a20b744cc0f32/BLUE%20CLAPPER.png",
+      "name": "BLUE CLAPPER",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "PandaBoY",
+      "music": "PandaBoY",
+      "arrangement": "PandaBoY",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/54adeccae6784b26b6b7f846333b7394/Suspect.png",
+      "name": "Suspect",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "Kyota.",
+      "music": "Kyota.",
+      "arrangement": "Kyota.",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/37620077a93d460b925f68fb2831a576/Dream%E2%98%86Story.png",
+      "name": "Dream☆Story",
+      "unit": "Tokino Sora",
+      "lyrics": "kinoshita",
+      "music": "kinoshita",
+      "arrangement": "kinoshita",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/50974520ef72470eb9c53e9fd6d35a52/img_music_jacket_m0072.png",
+      "name": "Star,star,start",
+      "unit": "Tokino Sora",
+      "lyrics": "Nayutan Seijin",
+      "music": "Nayutan Seijin",
+      "arrangement": "Nayutan Seijin",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/3e836f659ad64429afd3c91526541bd8/%E3%83%AA%E3%83%AB%E3%83%92%E3%82%99.png",
+      "name": "rirubi",
+      "unit": "Robocosan",
+      "lyrics": "teniwoha",
+      "music": "teniwoha",
+      "arrangement": "teniwoha",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/b37264f86c184c11b146b9e1b248dfb5/%E3%81%84%E3%81%AE%E3%81%A1(2024%20ver.).png",
+      "name": "Inochi(2024 ver.)",
+      "unit": "AZKi",
+      "lyrics": "Wataru Sena(SOVA)",
+      "music": "Wataru Sena(SOVA)",
+      "arrangement": "Wataru Sena(SOVA)",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9411009d6ce043499f3b74b4f964c351/flower%20rhapsody.png",
+      "name": "flower rhapsody",
+      "unit": "Sakura Miko",
+      "lyrics": "Shota Horie",
+      "music": "Shota Horie",
+      "arrangement": "John Kanda",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/fc18811691ea4d219515e08f06958725/Stellar%20Stellar.png",
+      "name": "Stellar Stellar",
+      "unit": "Hoshimachi Suisei",
+      "lyrics": "Hoshimachi Suisei",
+      "music": "TAKU INOUE",
+      "arrangement": "TAKU INOUE",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0cf57835f6f040d1bcc0bd730afe27a3/%E3%83%92%E3%82%99%E3%83%92%E3%82%99%E3%83%86%E3%82%99%E3%83%8F%E3%82%99.png",
+      "name": "BIBBIDIBA",
+      "unit": "Hoshimachi Suisei",
+      "lyrics": "tsumiki",
+      "music": "tsumiki",
+      "arrangement": "tsumiki",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/a2a86bb33b474a909ee174fdf98119ce/%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%BC%E3%82%B9.png",
+      "name": "SHALLYS",
+      "unit": "Aki Rosenthal",
+      "lyrics": "as",
+      "music": "kotokI",
+      "arrangement": "kotokI",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4213fd7cc67740b19290e09583cfe65b/%E6%84%9F%E8%A7%A6.png",
+      "name": "sensation -KANSHOKU-",
+      "unit": "Akai Haato",
+      "lyrics": "Kai Shiono",
+      "music": "Kai Shiono",
+      "arrangement": "Kai Shiono",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/80e165592147406f8fa0f617bd779be0/SUPERNOVA.png",
+      "name": "SUPERNOVA",
+      "unit": "Shirakami Fubuki",
+      "lyrics": "Ryuki Koike",
+      "music": "Ryuki Koike",
+      "arrangement": "Ryuki Koike",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d5fec6c5005f4171a15bd29543d8f3d0/%E3%81%AF%E3%82%99%E3%83%BC%E3%81%A1%E3%82%83%E3%82%89%E3%81%B5%E3%82%99.png",
+      "name": "Virtualove",
+      "unit": "Natsuiro Matsuri",
+      "lyrics": "Medansy",
+      "music": "Medansy",
+      "arrangement": "Medansy",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/8a03be0449f746199cf3292b260b94c7/%E5%AE%B5%E3%81%AE%E4%BD%99%E3%80%81%E8%89%AF%E3%81%84%EF%BC%81.png",
+      "name": "Yoi no Yo, Yoi!",
+      "unit": "Nakiri Ayame",
+      "lyrics": "Masahiro Takeda(Dream Monster)",
+      "music": "Masahiro Takeda(Dream Monster)",
+      "arrangement": "Masahiro Takeda(Dream Monster)",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/26636553903e45b7b125c2c6faa57a8e/NoDistance.png",
+      "name": "NoDistance",
+      "unit": "Yuzuki Choco",
+      "lyrics": "shinji suzuki",
+      "music": "shinji suzuki",
+      "arrangement": "shinji suzuki",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c6cecaace324451bb79ee0b012fef6c8/%E3%81%B5%E3%82%9A%E3%83%BB%E3%82%8C%E3%83%BB%E3%81%82%E3%83%BB%E3%81%A6%E3%82%99%E3%83%BB%E3%81%99%EF%BC%81.png",
+      "name": "Pleiades!",
+      "unit": "Oozora Subaru",
+      "lyrics": "Mitsu（TRYTONELABO）",
+      "music": "ShunsukeTakizawa（TRYTONELABO）",
+      "arrangement": "ShunsukeTakizawa（TRYTONELABO）",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/cff3810f29b94989b1008941e2a4e407/Howling.png",
+      "name": "Howling",
+      "unit": "Ookami Mio",
+      "lyrics": "ZAQ",
+      "music": "ZAQ",
+      "arrangement": "KanadeYUK",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/23c1072ad2d14f5b88c63ab299314d61/%E3%82%82%E3%81%8F%E3%82%99%E3%82%82%E3%81%8F%E3%82%99YUMMY%EF%BC%81.png",
+      "name": "Mogu Mogu YUMMY！",
+      "unit": "Nekomata Okayu",
+      "lyrics": "PinocchioP",
+      "music": "PinocchioP",
+      "arrangement": "PinocchioP",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/5727c61fd61349d0b63a1eceba41843c/Doggy%20god's%20street.png",
+      "name": "Doggy god's street",
+      "unit": "Inugami Korone",
+      "lyrics": "TOPHAMHAT-KYO",
+      "music": "FAKE TYPE.",
+      "arrangement": "DYES IWASAKI",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4dabe8d7c81c47e28361b73cb12ae1a4/%E5%85%A8%E4%BA%BA%E9%A1%9E%E3%80%80%E5%85%8E%E5%8C%96%E8%A8%88%E7%94%BB%EF%BC%81.png",
+      "name": "ZenjinruiUsagikakeikaku!",
+      "unit": "Usada Pekora",
+      "lyrics": "Kenichi Maeyamada",
+      "music": "Kenichi Maeyamada",
+      "arrangement": "Tota Fujiwara",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/59132d2d23d74005ac13b8dddc0dbd51/%E5%85%A8%E5%8A%9B%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%B3%E3%82%AF%E3%82%99%EF%BC%81.png",
+      "name": "Zenryoku-Jumping!",
+      "unit": "Shiranui Flare",
+      "lyrics": "Ayato Shinozaki、Ryousuke Tachibana",
+      "music": "Ayato Shinozaki、Ryousuke Tachibana",
+      "arrangement": "Ayato Shinozaki、Ryousuke Tachibana",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2189bb8e398b4aef93b8b858ca6e4867/%E3%81%8D%E3%82%99%E3%82%85%E3%83%BC%E3%81%A8%E3%82%99%E3%82%93%E3%81%8B%E3%83%BC%E3%81%AB%E3%81%AF%E3%82%99%E3%82%8B%EF%BC%81.png",
+      "name": "Gyu-Don Carnival!",
+      "unit": "Shirogane Noel",
+      "lyrics": "MARON (IOSYS)",
+      "music": "MARON (IOSYS)",
+      "arrangement": "MARON (IOSYS)",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/becc021f4ac9442f80197857ed436120/%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%84%A1%E7%BD%AA%E2%99%A1%E3%83%8F%E3%82%9A%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%84.png",
+      "name": "Bishoujyo Muzai♡Pirates",
+      "unit": "Houshou Marine",
+      "lyrics": "Nanahoshi Orchestra",
+      "music": "Takashi Iwami",
+      "arrangement": "Nanahoshi Orchestra",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/68962e5238c8480c94cf874690de5158/img_music_jacket_m0037.png",
+      "name": "My song",
+      "unit": "Tsunomaki Watame",
+      "lyrics": "Tabuchi Tomoya",
+      "music": "Shota Horie",
+      "arrangement": "Shota Horie",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/1310498c4f1a4fb58813544f023f35c8/Palette.png",
+      "name": "Palette",
+      "unit": "Tokoyami Towa",
+      "lyrics": "Tokoyami Towa",
+      "music": "niki",
+      "arrangement": "niki",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/65c1d9462f9f464295165ec1a758bf5a/%E5%AE%88%E8%AD%B7%E3%81%A3%E3%81%A6%E3%83%AB%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88.png",
+      "name": "Escort me! Luknight",
+      "unit": "Himemori Luna",
+      "lyrics": "Nanahoshi Orchestra",
+      "music": "Iwami Takashi",
+      "arrangement": "Nanahoshi Orchestra",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/8e61f7838b3d4a95a66f4ad5226b096e/%E6%98%8E%E6%97%A5%E3%81%B8%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A.png",
+      "name": "Asuenokyokaisen",
+      "unit": "Yukihana Lamy",
+      "lyrics": "ENA",
+      "music": "Hiroshi Sasaki",
+      "arrangement": "Hiroshi Sasaki",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/304123edcf114386acebb19d9a50f0ea/%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%EF%BC%81%E5%A4%A7%E7%88%86%E8%B5%B0.png",
+      "name": "NENENENENENENENE!DAIBAKUSOU",
+      "unit": "Momosuzu Nene",
+      "lyrics": "Hige Driver",
+      "music": "Hige Driver",
+      "arrangement": "Hige Driver",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/dfe59128c8b44ba4adae898a7ad86019/Lioness%E2%80%99%20Pride.png",
+      "name": "Lioness’ Pride",
+      "unit": "Shishiro Botan",
+      "lyrics": "Camellia",
+      "music": "Camellia",
+      "arrangement": "Camellia",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/64c23f895ed0444b92811c50ecec5066/%E3%81%BB%E3%82%9A.png",
+      "name": "Po",
+      "unit": "Omaru Polka",
+      "lyrics": "Rish",
+      "music": "Rish",
+      "arrangement": "Rish",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/df5e6554e3ac43b9a144ec97b67fd214/%E8%88%88%E5%91%B3%E3%81%AA%E3%81%84%E3%82%88.png",
+      "name": "Not Interested",
+      "unit": "La+ Darknesss",
+      "lyrics": "jon-YAKITORY",
+      "music": "jon-YAKITORY",
+      "arrangement": "jon-YAKITORY",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c73903ea5bcd49d7a0940c084b333a11/%E3%82%AA%E3%83%BC%E3%83%8F%E3%82%99%E3%83%BC%E3%83%88%E3%82%99.png",
+      "name": "Overd",
+      "unit": "Takane Lui",
+      "lyrics": "Hiiragi Kirai",
+      "music": "Hiiragi Kirai",
+      "arrangement": "Hiiragi Kirai",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/1dc1069293e449d489760fca9a6a7cbe/WAO!!(2025%20ver.).png",
+      "name": "WAO!!(2025 ver.)",
+      "unit": "Hakui Koyori",
+      "lyrics": "DECO*27 (OTOIRO)",
+      "music": "DECO*27 (OTOIRO)",
+      "arrangement": "Rockwell",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/85b3ef70e2ed45f1a1c45e53e1c13d5f/%E3%81%84%E3%82%8D%E3%81%AF%E3%81%99%E3%81%A6%E3%81%A3%E3%81%B5%E3%82%9A%EF%BC%81.png",
+      "name": "IrohaStep!",
+      "unit": "Kazama Iroha",
+      "lyrics": "40mP",
+      "music": "40mP",
+      "arrangement": "40mP",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/50aae6d97450477ea61f1eaafe61867a/ALiCE%26u.png",
+      "name": "ALiCE&u",
+      "unit": "Ayunda Risu",
+      "lyrics": "Ayunda Risu / Feryquitous",
+      "music": "Feryquitous",
+      "arrangement": "Feryquitous",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/aa564d4bc55f45a9b1fdedd83f8ae446/High%20Tide.png",
+      "name": "High Tide",
+      "unit": "Moona Hoshinova",
+      "lyrics": "ZSunder",
+      "music": "ZSunder",
+      "arrangement": "ZSunder",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/ed5ccd1db764408cac9517d7d0e408e2/Q%26A%3DE.png",
+      "name": "Q&A=E",
+      "unit": "Airani Iofifteen",
+      "lyrics": "Junky",
+      "music": "Junky",
+      "arrangement": "Junky",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/a56322fe90bb4578aea38ee70574620e/JOLLIE%20JOLLIE.png",
+      "name": "JOLLIE JOLLIE",
+      "unit": "Kureiji Ollie",
+      "lyrics": "KOTONOHOUSE",
+      "music": "KOTONOHOUSE",
+      "arrangement": "KOTONOHOUSE",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d98af9cd770c43d2a36a58002337b825/%E3%82%A2%E3%83%B3%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%A6%E3%82%99%E3%82%A7%E3%82%A4%E3%83%AB.png",
+      "name": "Unreal Veil",
+      "unit": "Anya Melfissa",
+      "lyrics": "Bocchi Boromaru",
+      "music": "Bocchi Boromaru",
+      "arrangement": "HAMA-kgn (Felion Sounds)",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/35500b36c098444eb25b1dccc0d6bbb7/Gate%20Open%E3%80%80START!.png",
+      "name": "Gate Open: START!",
+      "unit": "Pavolia Reine",
+      "lyrics": "Farhan Sarasin , Pavolia Reine",
+      "music": "Farhan Sarasin",
+      "arrangement": "Farhan Sarasin",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/37926ade9380453fb1f4752dbce82be8/You're%20Mine.png",
+      "name": "You're Mine",
+      "unit": "Vestia Zeta",
+      "lyrics": "arvin home aya",
+      "music": "Yusuke Nakamura a.k.a ynkmr.(BLU-SWING)",
+      "arrangement": "Yusuke Nakamura a.k.a ynkmr.(BLU-SWING)",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/da527c0d04e149d7849020a154f89ac9/dahlah..png",
+      "name": "dahlah.",
+      "unit": "Kaela Kovalskia",
+      "lyrics": "Prince Husein,Kaela Kovalskia",
+      "music": "Eka Gustiwana,Prince Husein",
+      "arrangement": "Eka Gustiwana",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/7daf6d7fef904158b6a1cf8ae837d029/Mantra%20Hujan.png",
+      "name": "Mantra Hujan",
+      "unit": "Kobo Kanaeru",
+      "lyrics": "Kobo Kanaeru",
+      "music": "Kobo Kanaeru",
+      "arrangement": "Matalino Musicworks",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9ac864d495fb4c99aeda9d9694ac133c/%E5%A4%B1%E7%A4%BC%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B%E3%82%99%E3%80%81RIP%E2%99%A1.png",
+      "name": "Excuse My Rudeness, But Could You Please RIP?",
+      "unit": "Mori Calliope",
+      "lyrics": "Mori Calliope",
+      "music": "K’s",
+      "arrangement": "K’s",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/eb5d266c2b844dc9afc73e7100cc79cb/SPARKS.png",
+      "name": "SPARKS",
+      "unit": "Takanashi Kiara",
+      "lyrics": "KIRA",
+      "music": "KIRA",
+      "arrangement": "KIRA",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/bdeaefb87bc9487bb6fb55f8d518cfe6/VIOLET.png",
+      "name": "VIOLET",
+      "unit": "Ninomae Ina'nis",
+      "lyrics": "LUMINA",
+      "music": "seibin",
+      "arrangement": "seibin",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/dceb9ecbefa4414a94135edf759e56a4/Carbonated%20Love.png",
+      "name": "Carbonated Love",
+      "unit": "IRyS",
+      "lyrics": "monii",
+      "music": "Yasuhiro Gasa",
+      "arrangement": "Yasuhiro Gasa",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/dea5a6332bbe4c129fc9bb5eebc34270/Daydream.png",
+      "name": "Daydream",
+      "unit": "Ouro Kronii",
+      "lyrics": "Kota Morita",
+      "music": "Tatsuya Yano",
+      "arrangement": "Tatsuya Yano",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/caf9a5a3499344108901f2dad8c35c4c/PSYCHO.png",
+      "name": "PSYCHO",
+      "unit": "Hakos Baelz",
+      "lyrics": "ZAQ",
+      "music": "HibikiTakahashi, Tom-H@ck",
+      "arrangement": "HibikiTakahashi",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/1924b200f3154caba6c0c84ee1aec9bd/Monsters%20and%20Men.png",
+      "name": "Monsters and Men",
+      "unit": "Shiori Novella",
+      "lyrics": "monii",
+      "music": "MELOIMAGE",
+      "arrangement": "MELOIMAGE",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/567a43d0c6ab45c0812d95237669b0db/%E3%83%95%E3%82%9A%E3%83%AA%E3%82%B9%E3%82%99%E3%83%A0%E3%81%AE%E9%AD%94%E6%B3%95.png",
+      "name": "Prism no Mahou",
+      "unit": "Koseki Bijou",
+      "lyrics": "YUC’e",
+      "music": "YUC’e",
+      "arrangement": "YUC’e",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/7f04a07daeb94c36abb33cb6788f67ea/Say%20My%20Name.png",
+      "name": "Say My Name",
+      "unit": "Nerissa Ravencroft",
+      "lyrics": "Kris Roche, Nerissa Ravencroft",
+      "music": "Kris Roche",
+      "arrangement": "Kris Roche",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/b559a611a543423a854c6abc54ae6339/Lifetime%20Showtime.png",
+      "name": "Lifetime Showtime",
+      "unit": "FUWAMOCO",
+      "lyrics": "Patra Suou, FUWAMOCO",
+      "music": "Patra Suou",
+      "arrangement": "Patra Suou",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f2ba5a4c1e8846d9a8f43ec6b6351939/img_music_jacket_m0192.png",
+      "name": "Born to be \"BAU\"DOL☆★",
+      "unit": "FUWAMOCO",
+      "lyrics": "PandaBoY",
+      "music": "PandaBoY",
+      "arrangement": "PandaBoY",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/49c9c16e9a8848d9893fdf37fa9b6f59/GREATEST.png",
+      "name": "GREATEST",
+      "unit": "Otonose Kanade",
+      "lyrics": "Nanahoshi Orchestra",
+      "music": "Iwami Takashi",
+      "arrangement": "Nanahoshi Orchestra",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/796273fa2d30457fb9c00bdd3073d361/%E4%BB%8A%E6%97%A5%E3%82%82%E5%A4%A7%E5%A4%A9%E6%89%8D%E3%81%A3%EF%BC%81.png",
+      "name": "Kyoumodaitensai!",
+      "unit": "Ichijou Ririka",
+      "lyrics": "Ryuki Koike",
+      "music": "Ryuki Koike",
+      "arrangement": "Ryuki Koike",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2bae18c8f04e4e31b52fbe3d49010a75/JAPAN%E3%81%AE%E7%BE%8E%E8%A1%93%E5%8F%B2%E2%99%AA%E3%81%8A%C2%B7%E3%81%BB%E3%82%99%C2%B7%E3%81%88%C2%B7%E3%81%BE%C2%B7SHOW%EF%BC%81.png",
+      "name": "Japan no bijutsushi oboemasho",
+      "unit": "Juufuutei Raden",
+      "lyrics": "Botchi Boromaru",
+      "music": "Botchi Boromaru",
+      "arrangement": "Botchi Boromaru",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/32123531d81d4d32903b2752f8d8b603/Countach.png",
+      "name": "Countach",
+      "unit": "Todoroki Hajime",
+      "lyrics": "Kenta Urashima",
+      "music": "Yusuke Yamamoto",
+      "arrangement": "Yusuke Yamamoto",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/597c1bbbd8ab4885a64e4627e1cff5cb/%E5%B8%B8%E5%A4%9C%E3%83%AA%E3%83%98%E3%82%9A%E3%82%A4%E3%83%B3%E3%83%88.png",
+      "name": "Jouya Repaint",
+      "unit": "Secret Society holoX",
+      "lyrics": "yuzen（Hifumi,inc.）",
+      "music": "yuzen（Hifumi,inc.）",
+      "arrangement": "yuzen（Hifumi,inc.）",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4dddbc02365243c7a03579e46801d6f0/Slap%20by%20Step.png",
+      "name": "Slap by Step",
+      "unit": "hololive Indonesia 2nd Generation",
+      "lyrics": "Ryosuke Goto, Muhammad Iqbal (ikkubaru)",
+      "music": "Ryosuke Goto",
+      "arrangement": "Ryosuke Goto",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/6ed012add32c44feb07d6a94409a0e11/save%20our%20hearts.png",
+      "name": "save our hearts",
+      "unit": "hololive Indonesia 3rd Generation",
+      "lyrics": "yuzen(Hifumi,inc.), Datenkou",
+      "music": "yuzen(Hifumi,inc.)",
+      "arrangement": "yuzen(Hifumi,inc.)",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0dca15f0f559404ca79ea67394456469/Our%20Promise.png",
+      "name": "Our Promise",
+      "unit": "hololive English -Promise-",
+      "lyrics": "noire",
+      "music": "Jeremy Robson",
+      "arrangement": "Jeremy Robson",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d46005554bbb482b8ef7fdd79840352e/%E5%88%B9%E9%82%A3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B3%E3%83%BC%E3%83%88%E3%82%99.png",
+      "name": "Setsunatick Code",
+      "unit": "Tokino Sora, AZKi",
+      "lyrics": "Aiko Takase",
+      "music": "Cher Watanabe",
+      "arrangement": "Cher Watanabe",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2902ebdfa1b7447b8797debb70ef014c/%E3%81%AA%E3%81%8B%E3%81%BE%E6%AD%8C.png",
+      "name": "NAKAMAKA",
+      "unit": "Shiranui Construction",
+      "lyrics": "Kissa Sasaki",
+      "music": "Kissa Sasaki",
+      "arrangement": "Kissa Sasaki",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/aee8fd1ff3b94d00bbfec33ba826fa14/Wicked%20feat.%20Mori%20Calliope.png",
+      "name": "Wicked feat. Mori Calliope",
+      "unit": "Hoshimachi Suisei, Mori Calliope",
+      "lyrics": "Mori Calliope,　HIROMI",
+      "music": "Giga",
+      "arrangement": "Giga",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0aa9e26254744b548374f90afe0f94f6/%E5%9C%B0%E7%8D%84%E3%81%A6%E3%82%99%E4%BC%9A%E3%81%8A%E3%81%86%E3%81%9B%E3%82%99%EF%BC%81%20%E3%82%B9%E3%83%8F%E3%82%99%E3%81%A1%E3%82%87%E3%81%93%E3%82%8B%E3%81%AA%E3%81%9F%E3%82%93.png",
+      "name": "zigokudeaouze!subachocolunatan",
+      "unit": "Oozora Subaru, Yuzuki Choco, Himemori Luna, Shishiro Botan",
+      "lyrics": "Shichijo Lettuce",
+      "music": "D.watt",
+      "arrangement": "D.watt",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/b02f56c2145440c2ab0181305e5f5ddb/ORANGE%20PARADE%20feat.%E6%88%8C%E7%A5%9E%E3%81%93%E3%82%8D%E3%81%AD.png",
+      "name": "ORANGE PARADE feat. Inugami Korone",
+      "unit": "Nekomata Okayu, Inugami Korone",
+      "lyrics": "TOPHAMHAT-KYO",
+      "music": "FAKE TYPE.",
+      "arrangement": "DYES IWASAKI",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/fe01381ddfc546e190b865f97cb54186/III.png",
+      "name": "I I I",
+      "unit": "Houshou Marine & Kobo Kanaeru",
+      "lyrics": "Sena Kiryuin",
+      "music": "Giga",
+      "arrangement": "Giga",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/276eb83e18dd48a584e8b8e90910c26c/%E3%81%97%E3%81%97%E3%82%8F%E3%81%9F%E3%82%AF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AF%E3%82%99%20feat.%E7%8D%85%E7%99%BD%E3%81%BB%E3%82%99%E3%81%9F%E3%82%93.png",
+      "name": "Shishi Wata Cooking feat. Shishiro Botan",
+      "unit": "Tsunomaki Watame, Shishiro Botan",
+      "lyrics": "MARON (IOSYS)",
+      "music": "REDALiCE",
+      "arrangement": "REDALiCE",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/67a1b00b01d645ea9f1fed1585693e0a/%E5%8B%87%E8%80%85.png",
+      "name": "The Brave",
+      "unit": "Yukihana Lamy",
+      "lyrics": "Ayase",
+      "music": "Ayase",
+      "arrangement": "",
+      "type": "cover"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c52b50b0ecc74d7bb8e0b94606c99c29/%E3%83%A1%E3%82%AD%E3%82%99%E3%83%84%E3%83%8D.png",
+      "name": "Megitsune",
+      "unit": "hololive English -Advent-",
+      "lyrics": "NORiMETAL/MK-METAL",
+      "music": "NORiMETAL",
+      "arrangement": "",
+      "type": "cover"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/51a80ac1e4be42948e122b33d18fdb7d/%E5%9B%9E%E3%83%AC%EF%BC%81%E9%9B%AA%E6%9C%88%E8%8A%B1.png",
+      "name": "Maware! Setsugetsuka",
+      "unit": "AZKi, Shirakami Fubuki, Houshou Marine",
+      "lyrics": "Hige Driver",
+      "music": "Hige Driver",
+      "arrangement": "",
+      "type": "cover"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9a195340cdc447a0884aa5722e88c61c/%E3%83%86%E3%82%99%E3%83%92%E3%82%99%E3%83%AB%E3%81%97%E3%82%99%E3%82%83%E3%81%AA%E3%81%84%E3%82%82%E3%82%93.png",
+      "name": "(Not) A Devil",
+      "unit": "AZKi, Kazama Iroha",
+      "lyrics": "DECO*27, PinocchioP",
+      "music": "DECO*27, PinocchioP",
+      "arrangement": "",
+      "type": "cover"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/e50c81583cba4e18930a788fddfb83f6/%E3%83%8F%E3%82%AA.png",
+      "name": "HAO",
+      "unit": "Tsunomaki Watame, Pavolia Reine",
+      "lyrics": "DECO*27",
+      "music": "DECO*27",
+      "arrangement": "",
+      "type": "cover"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/a3358231e20d416498b003df2f0fd36a/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E4%B8%80%E7%95%AA%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%A8%E3%81%93%E3%82%8D.png",
+      "name": "Watashi no Ichiban Kawaiitokoro",
+      "unit": "Sakura Miko, Himemori Luna, Airani Iofifteen, Fuwawa Abyssgard, Mococo Abyssgard",
+      "lyrics": "Sho Yamamoto",
+      "music": "Sho Yamamoto",
+      "arrangement": "",
+      "type": "cover"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0182d89a0e964522aa93646d231ca057/%E3%83%92%E3%83%A3%E3%82%BF%E3%82%99%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%97%E3%82%99%E3%82%87%E3%83%BC%E3%81%97%E3%82%99%E3%82%87%E3%83%BC%E3%82%86%E3%83%BC%E3%81%97%E3%82%99%E3%82%87%E3%83%BC.png",
+      "name": "Hyadain no Jojo Yujo",
+      "unit": "Nekomata Okayu, Inugami Korone",
+      "lyrics": "Kenichi Maeyamada",
+      "music": "Kenichi Maeyamada",
+      "arrangement": "",
+      "type": "cover"
+    }
+  ]
 }
