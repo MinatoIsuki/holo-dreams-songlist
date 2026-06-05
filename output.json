@@ -32,9 +32,9 @@
       "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f0e517825d78405b857805cd8bab13ab/Dreaming%20Days.png?fm=webp&w=192&h=192&dpr=1",
       "name": "Dreaming Days",
       "unit": "hololive IDOL PROJECT",
-      "lyrics": "Yuki Honda（Arte Refact）",
-      "music": "Yuki Honda（Arte Refact）,Takuya Sakai（Arte Refact）",
-      "arrangement": "Yuki Honda（Arte Refact）,Takuya Sakai（Arte Refact）",
+      "lyrics": "Yuki Honda",
+      "music": "Yuki Honda, Takuya Sakai",
+      "arrangement": "Yuki Honda, Takuya Sakai",
       "type": "original"
     },
     {
@@ -43,7 +43,7 @@
       "unit": "hololive IDOL PROJECT",
       "lyrics": "Ren Morimoto",
       "music": "Ren Morimoto",
-      "arrangement": "Masatomi Waki（Arte Refact）",
+      "arrangement": "Masatomi Waki",
       "type": "original"
     },
     {
