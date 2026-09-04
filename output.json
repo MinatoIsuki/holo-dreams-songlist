@@ -1,6 +1,15 @@
 {
-  "total": 154,
+  "total": 157,
   "songs": [
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/91627563df014e9b95a515dbdae4370b/Shiny%20Smily%20Story%20(2022%20ver.).png?fm=webp&w=192&h=192&dpr=1",
+      "name": "Shiny Smily Story (2022 ver.)",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "Yoshifumi Kanamaru",
+      "music": "Ryota Nakano",
+      "arrangement": "Tomohiro Akiura",
+      "type": "original"
+    },
     {
       "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f05ab96b725041aeb6c2317a6268fa5c/%E9%9D%92%E6%98%A5%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%95%E3%82%99.png?fm=webp&w=192&h=192&dpr=1",
       "name": "Seishun Archive",
@@ -47,15 +56,6 @@
       "type": "original"
     },
     {
-      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/91627563df014e9b95a515dbdae4370b/Shiny%20Smily%20Story%20(2022%20ver.).png?fm=webp&w=192&h=192&dpr=1",
-      "name": "Shiny Smily Story (2022 ver.)",
-      "unit": "hololive IDOL PROJECT",
-      "lyrics": "Yoshifumi Kanamaru",
-      "music": "Ryota Nakano",
-      "arrangement": "Tomohiro Akiura",
-      "type": "original"
-    },
-    {
       "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9346bed8efa343a892fea3ca7452d2fd/Prism%20Melody.png?fm=webp&w=192&h=192&dpr=1",
       "name": "Prism Melody",
       "unit": "hololive IDOL PROJECT",
@@ -98,15 +98,6 @@
       "lyrics": "Ryuki Koike",
       "music": "Ryuki Koike",
       "arrangement": "Ryuki Koike, Kazuki  Kumagai, Ryuta Aoki",
-      "type": "original"
-    },
-    {
-      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2eec6571798f4280b38a20b744cc0f32/BLUE%20CLAPPER.png?fm=webp&w=192&h=192&dpr=1",
-      "name": "BLUE CLAPPER",
-      "unit": "hololive IDOL PROJECT",
-      "lyrics": "PandaBoY",
-      "music": "PandaBoY",
-      "arrangement": "PandaBoY",
       "type": "original"
     },
     {
@@ -719,6 +710,15 @@
       "lyrics": "Mayu Miyazaki",
       "music": "Mayu Miyazaki",
       "arrangement": "Yasuhiro Gasa",
+      "type": "original"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2eec6571798f4280b38a20b744cc0f32/BLUE%20CLAPPER.png?fm=webp&w=192&h=192&dpr=1",
+      "name": "BLUE CLAPPER",
+      "unit": "hololive IDOL PROJECT",
+      "lyrics": "PandaBoY",
+      "music": "PandaBoY",
+      "arrangement": "PandaBoY",
       "type": "original"
     },
     {
@@ -1384,6 +1384,33 @@
       "unit": "IRyS, Hakos Baelz",
       "lyrics": "shito, Gom",
       "music": "shito",
+      "arrangement": "",
+      "type": "cover"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/e8cd0c25dcaa4c73bd992853ffe041f2/%E5%85%AD%E5%85%86%E5%B9%B4%E3%81%A8%E4%B8%80%E5%A4%9C%E7%89%A9%E8%AA%9E.png?fm=webp&w=192&h=192&dpr=1",
+      "name": "A Tale of Six Trillion Years and a Night",
+      "unit": "SorAZ",
+      "lyrics": "kemu",
+      "music": "kemu",
+      "arrangement": "",
+      "type": "cover"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2145976eef9f44a282a5113f19aef8d9/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%99.png?fm=webp&w=192&h=192&dpr=1",
+      "name": "Orange",
+      "unit": "Momosuzu Nene, Takanashi Kiara",
+      "lyrics": "Akiko Watanabe",
+      "music": "Funta3",
+      "arrangement": "",
+      "type": "cover"
+    },
+    {
+      "jacket": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/8ae84b088ece420983daef455162e4fc/Bling-Bang-Bang-Born.png?fm=webp&w=192&h=192&dpr=1",
+      "name": "Bling-Bang-Bang-Born",
+      "unit": "Ninomae Ina'nis, Hakos Baelz",
+      "lyrics": "R-Shitei",
+      "music": "DJ Matsunaga",
       "arrangement": "",
       "type": "cover"
     }
